@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher
 
 import asyncio
 
-bot = Bot(token='token')
+bot = Bot(token='6667285704:AAHFplhx8e3oIDSqqSSh6ShzGHXbjV9fEpQ')
 dp = Dispatcher(bot=bot)
 
 async def main():
